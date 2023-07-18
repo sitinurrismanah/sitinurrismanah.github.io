@@ -1,0 +1,33 @@
+* {
+    font-family: century Gothic;
+}
+h1 {
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+h3 {
+    color: brown;
+}
+table, 
+th,
+td{
+    border: solid 1px black ;
+    text-align: center
+}
+table{
+    width: 100%;
+}
+* body{
+    background: pink;
+}
+
+.foto{
+    width: 100px;
+    border-radius: 60%;
+    /* box-shadow: 10px 6px 3px black; */
+    box-shadow: 3px 3px 3px grey;
+    cursor: pointer;
+    display: block;
+    text-align: center;
+}
